@@ -25,8 +25,8 @@ Code-Alpha-Exploratory-Data-Analysis/
 ## Run the project
 1. Install Python 3.10+ and Jupyter Notebook.
 2. Install dependencies: `pip install -r requirements.txt`
-3. Copy the Task 1 CSV to `data/ecommerce_products.csv`.
-4. Open `notebooks/ecommerce_eda.ipynb`.
+3. The dataset ecommerce_products.csv is already in the project root folder.
+4. Open ecommerce_eda.ipynb in the project root folder.
 5. Run all cells from top to bottom.
 6. Review the printed outputs and complete the conclusions section in the notebook.
 
