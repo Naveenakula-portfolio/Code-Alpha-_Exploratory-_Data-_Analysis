@@ -14,14 +14,12 @@ Expected columns from Task 1:
 
 ## Project structure
 ```text
-CodeAlpha_Exploratory_Data_Analysis/
+Code-Alpha-Exploratory-Data-Analysis/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-├── data/
-│   └── README.md
-└── notebooks/
-    └── ecommerce_eda.ipynb
+├── ecommerce_eda.ipynb
+└── ecommerce_products.csv
 ```
 
 ## Run the project
